@@ -1,4 +1,4 @@
-<script>
+
   // Run after DOM is ready
   window.addEventListener('DOMContentLoaded', () => {
     // Globals
@@ -1257,4 +1257,4 @@
     }
 
   });
-  </script>
+
